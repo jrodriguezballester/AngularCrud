@@ -1,4 +1,6 @@
 # AngularProyect
+https://www.youtube.com/watch?v=O13X14TGtm8
+https://www.youtube.com/watch?v=xnTwU-ZgAqQ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
 
